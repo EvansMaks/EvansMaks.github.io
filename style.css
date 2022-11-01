@@ -1,0 +1,21 @@
+body {
+	background: lightblue;
+}
+
+.login-box{
+	max-width: 900px;
+	float: none;
+	margin: auto;
+}
+
+.login-left{
+	background: rgba(211, 211, 211, 0.5);
+	padding: 30px;
+}
+.login-right{
+	background: #fff;
+	padding: 30px;
+}
+.form-control{
+	background-color: lemonchiffon; !important ;
+}
